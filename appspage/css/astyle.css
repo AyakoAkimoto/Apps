@@ -43,14 +43,10 @@ header{
 */}
 
 
-
 .top-menu-item {
-/*    float: left;
-*/
     height:70px;
     color: orange;
-    float: right;
-    /*width: 150px;*/
+    float: left;
     line-height: 70px;
     margin: 0 auto;
     text-decoration: none;
